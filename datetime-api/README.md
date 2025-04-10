@@ -4,10 +4,10 @@ This is a simple FastAPI application that exposes the current UTC date and time 
 
 ##  Features
 
-- `/datetime` endpoint returns current UTC timestamp
+- /datetime endpoint returns current UTC timestamp
 - Built with FastAPI and Uvicorn
 - Dockerized and ready for container-based deployment
-- Auto-generated Swagger UI available at `/docs`
+- Auto-generated Swagger UI available at /docs
 
 ---
 

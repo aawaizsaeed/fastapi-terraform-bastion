@@ -13,7 +13,7 @@ This Terraform configuration provisions a secure EC2 instance to be used as a **
 - Security group with restricted SSH access
 - Public IP for external access
 - Variables for full flexibility
-- Safe by default with `prevent_destroy` lifecycle rule
+- Safe by default with `prevent-destory lifecycle rule
 
 ---
 
